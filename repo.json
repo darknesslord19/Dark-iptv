@@ -1,0 +1,8 @@
+{
+  "name": "Dark-iptv",
+  "description": "Dark IPTV eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/darknesslord19/Dark-iptv/builds/plugins.json"
+  ]
+}
