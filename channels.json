@@ -1,0 +1,5 @@
+[
+  {"name": "Ornek Kanal 1", "url": "https://ornek.com/kanal1/index.m3u8", "logo": "https://ornek.com/logo1.png", "group": "Ulusal"},
+  {"name": "Ornek Kanal 2", "url": "https://ornek.com/kanal2/index.m3u8", "group": "Haber", "referer": "https://ornek.com/"},
+  {"name": "Komple Playlist", "url": "https://ornek.com/liste.m3u", "group": "Playlist"}
+]
